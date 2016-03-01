@@ -1,0 +1,6 @@
+hrs = raw_input("Enter Hours:")
+rate = raw_input("Enter Rate:")
+usf = float(hrs)
+usf = float(rate)
+pay = float(hrs) * float(rate)
+print float(pay)
